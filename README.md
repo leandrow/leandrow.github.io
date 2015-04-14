@@ -1,1 +1,1 @@
-> [leandrow.info](http://leandrow.info) (leandrow.github.io)
+> [leandrow.github.io](http://leandrow.github.io)
