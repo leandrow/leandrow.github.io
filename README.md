@@ -1,1 +1,3 @@
-> [leandrow.github.io](http://leandrow.github.io)
+![Demo](img/apple-touch-icon.png)
+
+[Leandrow](http://leandrow.github.io)
