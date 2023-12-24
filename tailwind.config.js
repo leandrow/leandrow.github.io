@@ -3,7 +3,7 @@ const defaultTheme = require('tailwindcss/defaultTheme');
 
 export default {
   content: ['./dev/**/*.{html,js}'],
-  darkMode: 'class',
+  darkMode: 'media',
   theme: {
     screens: {
       sm: '480px',
