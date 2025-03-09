@@ -1,3 +1,3 @@
 ## My personal page
 
-> made with [Init landing page](https://init-landing-page.vercel.app/).
+> made with [lp starter](https://lp-starter.vercel.app/).
