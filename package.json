@@ -1,7 +1,6 @@
 {
   "name": "personal-page",
   "author": "Leandro Silva",
-  "type": "module",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build --emptyOutDir",
