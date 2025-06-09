@@ -1,0 +1,16 @@
+/** component styles */
+
+@layer components {
+  .bg-radial-gradient {
+    @apply absolute inset-0 -z-10;
+    background:
+      radial-gradient(circle at top left, rgb(209, 250, 229), transparent 25%),
+      radial-gradient(circle at right 75%, rgb(224, 242, 254), transparent 25%);
+
+    @variant dark {
+      background:
+        radial-gradient(circle at top left, rgb(2, 44, 34), transparent 25%),
+        radial-gradient(circle at right 75%, rgb(8, 47, 73), transparent 25%);
+    }
+  }
+}
